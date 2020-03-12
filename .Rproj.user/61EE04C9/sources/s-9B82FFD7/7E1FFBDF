@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1583914262137.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1503935952",
+    "id" : "7E1FFBDF",
+    "lastKnownWriteTime" : 1583913865,
+    "last_content_update" : 1583913865,
+    "path" : "C:/Users/Liu Xiao/Study/R/myScript/my_first_R_Script.R",
+    "project_path" : null,
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
